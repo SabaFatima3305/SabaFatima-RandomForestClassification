@@ -1,4 +1,6 @@
 # SabaFatima-RandomForestClassification
+#Fraud check model
+
 
 Random Forest is used to prepare a model on fraud dataset by treating those who have taxable_income <= 30000 as "Risky" and others are "Good".
 
@@ -19,7 +21,7 @@ Random Forest is used to prepare a model on fraud dataset by treating those who 
 
 
 
-A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
+## A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
 Approach - A Random Forest can be built with target variable Sales (we will first convert it in categorical variable) & all other variable will be independent in the analysis.  
 
 About the data: 
